@@ -1,7 +1,7 @@
 /**
 /*
 /* Create a new file named apikeys.js and add your keys there.
-/* Then, import this file in any module that requires it:
+/* Then, import the file in any module that requires it:
 /*      `import ApiKeys from './apikeys'`
 **/
 

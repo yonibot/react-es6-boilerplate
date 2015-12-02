@@ -6,6 +6,8 @@
 **/
 
 
-export default const ApiKeys = {
+const ApiKeys = {
   someApiKey: "THIS_IS_NOT_THE_REAL_API_KEY",
 }
+
+export { ApiKeys as default };
